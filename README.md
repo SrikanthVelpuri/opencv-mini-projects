@@ -1,0 +1,1 @@
+# opencv-mini-projects
